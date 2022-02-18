@@ -12,6 +12,6 @@ class whileLoopDemo
             // Increment the value of x for
             // next iteration
             x++;
-        }
+        
     }
 }
